@@ -8,16 +8,16 @@
 
 <p>👤 ╔. Name: Kisonix</p>
 <p>🧩 ║. Age: 20+</p>
-<a>🪟 ║. OS: Windows 11</a>
-<a>🚀 ║. WSL: Kali Linux<.a>
-<a>🦄 ║. DE: None</a>
-<a>💻 ║. PC: Megabook T1 i5, 16gb</a>
-<a>📱 ║. Phone: Poco X6</a>
-<a>🖥  ║. Monitor: Xiaomi 27</a>
-<a>🎧 ║. Headphones: DT 990</a>
-<a>🖱  ║. Mouse: Darmoshark M3</a>
-<a>⌨️ ║. Keyboard: Rainy 75</a>
-<a>🧑‍💻 ║. Activity: Dev terminal software</a>
-<a>🍩 ╚. Lang: C#, CSS, HTML, SHELL</a>
+<p>🪟 ║. OS: Windows 11</p>
+<p>🚀 ║. WSL: Kali Linux<.p>
+<p>🦄 ║. DE: None</p>
+<p>💻 ║. PC: Megabook T1 i5, 16gb</p>
+<p>📱 ║. Phone: Poco X6</p>
+<p>🖥  ║. Monitor: Xiaomi 27</p>
+<p>🎧 ║. Headphones: DT 990</p>
+<p>🖱  ║. Mouse: Darmoshark M3</p>
+<p>⌨️ ║. Keyboard: Rainy 75</p>
+<p>🧑‍💻 ║. Activity: Dev terminal software</p>
+<p>🍩 ╚. Lang: C#, CSS, HTML, SHELL</p>
 
 🩵   💙   💚   💜   💛   🧡   ❤️   🩷   🤍   🖤
