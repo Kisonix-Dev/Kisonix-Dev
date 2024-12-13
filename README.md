@@ -1,6 +1,7 @@
 # Kisonix
 
 <p align="center"><img src="github/img/neofetch.png"></p>
+<a align="center" target="_blank" rel="noopener noreferrer" href="https://github.com/Kisonix-Dev/Kisonix-Dev/blob/main/img/neofetch.png"><img src="https://github.com/Kisonix-Dev/Kisonix-Dev/blob/main/img/neofetch.png" alt="TailwindCSS" style="max-width: 100%;"></a>
 
 🐧 [kisonix@pc-0 ~]$ neofetch 
 
