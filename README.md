@@ -6,8 +6,8 @@
 
 ---------------------------
 
-<a>👤 ╔. Name: Kisonix</a>
-<a>🧩 ║. Age: 20+</a>
+<p>👤 ╔. Name: Kisonix</p>
+<p>🧩 ║. Age: 20+</p>
 <a>🪟 ║. OS: Windows 11</a>
 <a>🚀 ║. WSL: Kali Linux<.a>
 <a>🦄 ║. DE: None</a>
