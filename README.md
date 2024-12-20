@@ -16,7 +16,7 @@
 <p>🎧 ║. Headphones: DT 990</p>
 <p>🖱  ║. Mouse: Darmoshark M3</p>
 <p>⌨️ ║. Keyboard: Rainy 75</p>
-<p>🧑‍💻 ║. Activity: Dev terminal software & maintainer</p>
+<p>🧑‍💻 ║. Activity: Dev terminal software & website</p>
 <p>🍩 ╚. Technology: C#, .NET, CSS, HTML, Bootstrap, Bash, Bat.</p>
 
 🩵   💙   💚   💜   💛   🧡   ❤️   🩷   🤍   🖤
