@@ -8,7 +8,7 @@
 
 <p>👤 ╔. Name: Kisonix</p>
 <p>🧩 ║. Age: 20+</p>
-<p>🪟 ║. Main OS: Windows 11</p>
+<p>🚀 ║. Main OS: Linux Mint</p>
 <p>🪟 ║. Secondary OS: Windows 11</p>
 <p>💻 ║. PC: Megabook T1 i5, 16gb</p>
 <p>📱 ║. Phone: Poco X6</p>
