@@ -8,15 +8,13 @@
 
 <p>👤 ╔. Name: Kisonix</p>
 <p>🧩 ║. Age: 20+</p>
-<p>🪟 ║. OS: Windows 11</p>
-<p>🚀 ║. WSL: Kali Linux</p>
+<p>🪟 ║. Main OS: Windows 11</p>
+<p>🪟 ║. Secondary OS: Windows 11</p>
 <p>💻 ║. PC: Megabook T1 i5, 16gb</p>
 <p>📱 ║. Phone: Poco X6</p>
-<p>🖥  ║. Monitor: Xiaomi 27</p>
-<p>🎧 ║. Headphones: DT 990</p>
 <p>🖱  ║. Mouse: Darmoshark M3</p>
 <p>⌨️ ║. Keyboard: Rainy 75</p>
-<p>🧑‍💻 ║. Activity: Dev terminal software & website</p>
-<p>🍩 ╚. Technology: C#, .NET, CSS, HTML, Bootstrap, Bash, Batch.</p>
+<p>🧑‍💻 ║. Activity: Dev terminal software</p>
+<p>🍩 ╚. Technology: C#, .NET, CSS, HTML, Bootstrap, Bash, Batch, Lua</p>
 
 🩵   💙   💚   💜   💛   🧡   ❤️   🩷   🤍   🖤
