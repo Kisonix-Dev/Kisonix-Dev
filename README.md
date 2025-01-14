@@ -14,7 +14,7 @@
 <p>📱 ║. Phone: Poco X6</p>
 <p>🖱  ║. Mouse: Darmoshark M3</p>
 <p>⌨️ ║. Keyboard: Rainy 75</p>
-<p>🧑‍💻 ║. Activity: Dev terminal Lua "NPP" software & Dev terminal C# software</p>
-<p>🍩 ╚. Technology: C#, js, Lua, CSS, HTML, Bash, Batch</p>
+<p>🧑‍💻 ║. Activity: Dev terminal C# software</p>
+<p>🍩 ╚. Technology: C#, CSS, HTML, Bash, Batch</p>
 
 🩵 💙 💚 💜 💛 🧡 ❤️ 🩷 🤍 🖤
