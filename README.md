@@ -1,6 +1,6 @@
 # 🧑‍💻 About me
 
-<a align="center" target="_blank" rel="noopener noreferrer" href="https://github.com/Kisonix-Dev/Kisonix-Dev/blob/main/img/new-image.png"><img src="https://github.com/Kisonix-Dev/Kisonix-Dev/blob/main/img/new-image.png" alt="image" style="max-width: 100%;"></a>
+<a align="center" target="_blank" rel="noopener noreferrer" href="https://github.com/Kisonix-Dev/Kisonix-Dev/blob/main/img/screenshot.png?raw=true"><img src="https://github.com/Kisonix-Dev/Kisonix-Dev/blob/main/img/screenshot.png?raw=true" alt="image" style="max-width: 100%;"></a>
 
 🐧 [user@pc-0 ~]$ neofetch
 
@@ -8,8 +8,8 @@
 
 <p>👤 ╔. Name: Kisonix</p>
 <p>🧩 ║. Age: 20+</p>
-<p>🚀 ║. Main OS: Linux Ubunru</p>
-<p>🐧 ║. DE: Gnome</p>
+<p>🚀 ║. Основная ОС: Debian GNU / Linux</p>
+<p>🐧 ║. DE: Xfce</p>
 <p>💻 ║. PC: Megabook T1 i5, 16gb</p>
 <p>📱 ║. Phone: Poco X6</p>
 <p>🖱  ║. Mouse: Darmoshark M3</p>
