@@ -15,4 +15,4 @@
 <p>- Mouse: Darmoshark M3</p>
 <p>- Keyboard: Rainy 75</p>
 <p>- Activity: Dev terminal C# software</p>
-<p>- Technology: C#, Lua, CSS, HTML, Bash, Batch</p>
+<p>- Technology: C#, Js, Lua, CSS, HTML, Shell, Batch</p>
