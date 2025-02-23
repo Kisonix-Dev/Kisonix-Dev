@@ -8,7 +8,8 @@
 
 <p>- Name: Kisonix</p>
 <p>- Age: 20+</p>
-<p>- Main OS: Debian GNU / Linux</p>
+<p>- Main OS: Windows 11</p>
+<p>- WSL: Debian</p>
 <p>- DE: XFCE & LXDE</p>
 <p>- PC: Megabook T1 i5, 16gb</p>
 <p>- Phone: Poco X6</p>
