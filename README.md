@@ -7,7 +7,8 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-KDE_neon-1D99F3?logo=linux&logoColor=white)
-
+![Microsoft Windows 11](https://img.shields.io/badge/Microsoft_Windows_11-0078D7?logo=windows11&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 
 - 🚀 Developer of [Lime OS](https://github.com/Kisonix-Dev/Lime), Operating system simulation.
 - 🗺 Developer of [Magic Islands](https://github.com/Kisonix-Dev/Magic_Islands), Terminal turn based rpg game.
