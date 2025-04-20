@@ -8,6 +8,8 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-KDE_neon-1D99F3?logo=linux&logoColor=white)
 ![Microsoft Windows 11](https://img.shields.io/badge/Microsoft_Windows_11-0078D7?logo=windows11&logoColor=white)
+![Mcreator](https://img.shields.io/badge/Mcreator-000000?logo=Mcreator&logoColor=white&color=green)
+![BlockBench](https://img.shields.io/badge/BlockBench-000000?logo=BlockBench&logoColor=white&color=3D8FCC)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 
 - 🚀 Developer of [Lime OS](https://github.com/Kisonix-Dev/Lime), Operating system simulation.
