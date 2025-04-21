@@ -12,7 +12,19 @@
 ![BlockBench](https://img.shields.io/badge/BlockBench-000000?logo=BlockBench&logoColor=white&color=3D8FCC)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 
-- 🚀 Developer of [Lime OS](https://github.com/Kisonix-Dev/Lime), Operating system simulation.
-- 🗺 Developer of [Magic Islands](https://github.com/Kisonix-Dev/Magic_Islands), Terminal turn based rpg game.
-- ♣️ Developed [RoboPoker](https://github.com/Kisonix-Dev/RoboPoker), Play poker at home.
-- 🎨 Developed [WebPony](https://github.com/Kisonix-Dev/WebPony), Website. 
+### Up-to-date information on what I am currently developing
+
+- 🚀 [Lime OS](https://github.com/Kisonix-Dev/Lime), Operating system simulation.
+- 🌱 [FunSeeds](https://github.com/Kisonix-Dev/FunSeeds), Mod for minecraft. 
+- 🗺 [Magic Islands](https://github.com/Kisonix-Dev/Magic_Islands), Terminal turn based rpg game.
+
+### development finished 
+- ♣️ [RoboPoker](https://github.com/Kisonix-Dev/RoboPoker), Play poker at home.
+- 🎨 [WebPony](https://github.com/Kisonix-Dev/WebPony), Website.
+
+
+### Support finished
+- 🚚 [SimTah](https://github.com/Kisonix-Dev/SimTah), Tachograph for ATS and ETS2.
+- 🎲 [RoboPoker-Script](https://github.com/Kisonix-Dev/RoboPoker-Script), Script for playing poker at home.
+
+
