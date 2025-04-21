@@ -1,6 +1,6 @@
 # 🐧 > About me_ 
 
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&color=blue)
+![C#](https://img.shields.io/badge/C%23-239120?logo=sharp&logoColor=white&color=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&color=yellow)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&color=yellow)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&color=orange)
