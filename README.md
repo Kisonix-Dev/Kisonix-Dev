@@ -8,6 +8,7 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Debian-1D99F3?logo=linux&logoColor=white)
 ![Microsoft Windows 11](https://img.shields.io/badge/Microsoft_Windows_11-0078D7?logo=windows11&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-000000?logo=Aseprite&logoColor=white&color=7D929E)
 ![Mcreator](https://img.shields.io/badge/Mcreator-000000?logo=Mcreator&logoColor=white&color=green)
 ![BlockBench](https://img.shields.io/badge/BlockBench-000000?logo=BlockBench&logoColor=white&color=3D8FCC)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
@@ -18,7 +19,7 @@
 - 🌱 [FunSeeds](https://github.com/Kisonix-Dev/FunSeeds), Mod for minecraft. 
 - 🗺 [Magic Islands](https://github.com/Kisonix-Dev/Magic_Islands), Terminal turn based rpg game.
 
-### development finished 
+### Development finished 
 - ♣️ [RoboPoker](https://github.com/Kisonix-Dev/RoboPoker), Play poker at home.
 - 🎨 [WebPony](https://github.com/Kisonix-Dev/WebPony), Website.
 
