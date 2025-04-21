@@ -12,7 +12,7 @@
 ![BlockBench](https://img.shields.io/badge/BlockBench-000000?logo=BlockBench&logoColor=white&color=3D8FCC)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 
-### Up-to-date information on what I am currently developing
+### Currently developing
 
 - 🚀 [Lime OS](https://github.com/Kisonix-Dev/Lime), Operating system simulation.
 - 🌱 [FunSeeds](https://github.com/Kisonix-Dev/FunSeeds), Mod for minecraft. 
@@ -21,7 +21,6 @@
 ### development finished 
 - ♣️ [RoboPoker](https://github.com/Kisonix-Dev/RoboPoker), Play poker at home.
 - 🎨 [WebPony](https://github.com/Kisonix-Dev/WebPony), Website.
-
 
 ### Support finished
 - 🚚 [SimTah](https://github.com/Kisonix-Dev/SimTah), Tachograph for ATS and ETS2.
