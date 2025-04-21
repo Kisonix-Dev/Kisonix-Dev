@@ -7,10 +7,11 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Debian-1D99F3?logo=linux&logoColor=white)
-![Microsoft Windows 11](https://img.shields.io/badge/Microsoft_Windows_11-0078D7?logo=windows11&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D7?logo=windows11&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-000000?logo=Aseprite&logoColor=white&color=7D929E)
 ![Mcreator](https://img.shields.io/badge/Mcreator-000000?logo=Mcreator&logoColor=white&color=green)
 ![BlockBench](https://img.shields.io/badge/BlockBench-000000?logo=BlockBench&logoColor=white&color=3D8FCC)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 
 ### Currently developing
