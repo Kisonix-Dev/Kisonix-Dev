@@ -16,9 +16,9 @@
 
 ### Currently developing
 
+- 🍁 [Eldoria of Shard](https://github.com/Kisonix-Dev/Eldoria-of-Shard), Browser-based top-down mmorpg video game.
 - 🚀 [Lime OS](https://github.com/Kisonix-Dev/Lime), Operating system simulation.
 - 🌱 [FunSeeds](https://github.com/Kisonix-Dev/FunSeeds), Mod for minecraft. 
-- 🗺 [Magic Islands](https://github.com/Kisonix-Dev/Magic_Islands), Terminal turn based rpg game.
 
 ### Development finished 
 - ♣️ [RoboPoker](https://github.com/Kisonix-Dev/RoboPoker), Play poker at home.
