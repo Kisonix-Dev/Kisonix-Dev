@@ -1,4 +1,4 @@
-# 🐧 > About me_ 
+# 🍁 > About me_ 
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=sharp&logoColor=white&color=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&color=yellow)
