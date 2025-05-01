@@ -24,7 +24,6 @@
 - 🎨 [WebPony](https://github.com/Kisonix-Dev/WebPony), Website.
 
 ### Support finished
-- 🚚 [SimTah](https://github.com/Kisonix-Dev/SimTah), Tachograph for ATS and ETS2.
 - 🎲 [RoboPoker-Script](https://github.com/Kisonix-Dev/RoboPoker-Script), Script for playing poker at home.
 
 ### My configuration files
