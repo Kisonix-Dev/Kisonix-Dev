@@ -1,4 +1,4 @@
-# 🍁 > About me_ 
+# 🍍 > About me_ 
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=sharp&logoColor=white&color=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&color=yellow)
@@ -15,9 +15,10 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 
 ### Currently developing
-
-- 🍁 [Eldoria of Shard](https://github.com/Kisonix-Dev/Eldoria-of-Shard), Browser-based top-down mmorpg video game.
 - 🚀 [Lime OS](https://github.com/Kisonix-Dev/Lime), Operating system simulation.
+
+### Temporary freeze 
+- 🍁 [Eldoria of Shard](https://github.com/Kisonix-Dev/Eldoria-of-Shard), Browser-based top-down mmorpg video game.
 
 ### Development finished 
 - ♣️ [RoboPoker](https://github.com/Kisonix-Dev/RoboPoker), Play poker at home.
