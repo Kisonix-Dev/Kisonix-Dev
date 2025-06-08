@@ -2,6 +2,9 @@
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=sharp&logoColor=white&color=blue)
 ![JS](https://img.shields.io/badge/JS-white?logo=javascript&logoColor=white&color=yellow)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?logo=capacitor&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&color=yellow)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&color=orange)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
