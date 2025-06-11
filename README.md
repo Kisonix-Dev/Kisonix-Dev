@@ -15,17 +15,17 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white)
 
 ### Currently developing
-- 🚀 [Lime OS](https://github.com/Kisonix-Dev/Lime), Operating system simulation.
+##### <a href="https://github.com/Kisonix-Dev/Lime" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kisonix-Dev/Kisonix-dev/blob/main/img/folder-icon.png?raw=true" width="32" height="32" alt="Lime OS">Lime OS</a> (Operating system simulation)<br>
 
 ### Temporary freeze 
-- 🍁 [Eldoria of Shard](https://github.com/Kisonix-Dev/Eldoria-of-Shard), Browser-based top-down mmorpg video game.
+##### <a href="https://github.com/Kisonix-Dev/Eldoria-of-Shard" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kisonix-Dev/Kisonix-dev/blob/main/img/folder-icon.png?raw=true" width="32" height="32" alt="Eldoria of Shard">Eldoria of Shard</a> (Browser-based top-down mmorpg video game.)<br>
 
 ### Development finished 
-- ♣️ [RoboPoker](https://github.com/Kisonix-Dev/RoboPoker), Play poker at home.
-- 🎨 [WebPony](https://github.com/Kisonix-Dev/WebPony), Website.
+##### <a href="https://github.com/Kisonix-Dev/RoboPoker" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kisonix-Dev/Kisonix-dev/blob/main/img/folder-icon.png?raw=true" width="32" height="32" alt="RoboPoker">RoboPoker</a> (Play poker at home.)<br>
+##### <a href="https://github.com/Kisonix-Dev/WebPony" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kisonix-Dev/Kisonix-dev/blob/main/img/folder-icon.png?raw=true" width="32" height="32" alt="WebPony">WebPony</a> (Website)<br>
 
 ### Support finished
-- 🎲 [RoboPoker-Script](https://github.com/Kisonix-Dev/RoboPoker-Script), Script for playing poker at home.
+##### <a href="https://github.com/Kisonix-Dev/RoboPoker-Script" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kisonix-Dev/Kisonix-dev/blob/main/img/folder-icon.png?raw=true" width="32" height="32" alt="RoboPoker-Script">RoboPoker-Script</a> (Script for playing poker at home.)<br>
 
 ### My configuration files
-- 🧩 [Vscode Settings](https://github.com/Kisonix-Dev/Vscode-Settings), My VScode settings & bindings.
+##### <a href="https://github.com/Kisonix-Dev/Vscode-Settings" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kisonix-Dev/Kisonix-dev/blob/main/img/folder-icon.png?raw=true" width="32" height="32" alt="Vscode-Settings">Vscode-Settings</a> (My VScode settings & bindings.)<br>
