@@ -15,17 +15,17 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white)
 
 ### Currently developing
-##### <a href="https://github.com/Kisonix-Dev/Lime" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kisonix-Dev/Kisonix-dev/blob/main/img/folder-icon.png?raw=true" width="32" height="32" alt="Lime OS">Lime OS</a> (Operating system simulation)<br>
+<a href="https://github.com/Kisonix-Dev/Lime" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kisonix-Dev/Kisonix-dev/blob/main/img/folder-icon.png?raw=true" width="32" height="32" alt="Lime OS">Lime OS</a> (Operating system simulation)<br>
 
 ### Temporary freeze 
-##### <a href="https://github.com/Kisonix-Dev/Eldoria-of-Shard" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kisonix-Dev/Kisonix-dev/blob/main/img/folder-icon.png?raw=true" width="32" height="32" alt="Eldoria of Shard">Eldoria of Shard</a> (Browser-based top-down mmorpg video game.)<br>
+<a href="https://github.com/Kisonix-Dev/Eldoria-of-Shard" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kisonix-Dev/Kisonix-dev/blob/main/img/folder-icon.png?raw=true" width="32" height="32" alt="Eldoria of Shard">Eldoria of Shard</a> (Browser-based top-down mmorpg video game.)<br>
 
 ### Development finished 
-##### <a href="https://github.com/Kisonix-Dev/RoboPoker" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kisonix-Dev/Kisonix-dev/blob/main/img/folder-icon.png?raw=true" width="32" height="32" alt="RoboPoker">RoboPoker</a> (Play poker at home.)<br>
-##### <a href="https://github.com/Kisonix-Dev/WebPony" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kisonix-Dev/Kisonix-dev/blob/main/img/folder-icon.png?raw=true" width="32" height="32" alt="WebPony">WebPony</a> (Website)<br>
+<a href="https://github.com/Kisonix-Dev/RoboPoker" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kisonix-Dev/Kisonix-dev/blob/main/img/folder-icon.png?raw=true" width="32" height="32" alt="RoboPoker">RoboPoker</a> (Play poker at home.)<br>
+<a href="https://github.com/Kisonix-Dev/WebPony" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kisonix-Dev/Kisonix-dev/blob/main/img/folder-icon.png?raw=true" width="32" height="32" alt="WebPony">WebPony</a> (Website)<br>
 
 ### Support finished
-##### <a href="https://github.com/Kisonix-Dev/RoboPoker-Script" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kisonix-Dev/Kisonix-dev/blob/main/img/folder-icon.png?raw=true" width="32" height="32" alt="RoboPoker-Script">RoboPoker-Script</a> (Script for playing poker at home.)<br>
+<a href="https://github.com/Kisonix-Dev/RoboPoker-Script" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kisonix-Dev/Kisonix-dev/blob/main/img/folder-icon.png?raw=true" width="32" height="32" alt="RoboPoker-Script">RoboPoker-Script</a> (Script for playing poker at home.)<br>
 
 ### My configuration files
-##### <a href="https://github.com/Kisonix-Dev/Vscode-Settings" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kisonix-Dev/Kisonix-dev/blob/main/img/folder-icon.png?raw=true" width="32" height="32" alt="Vscode-Settings">Vscode-Settings</a> (My VScode settings & bindings.)<br>
+<a href="https://github.com/Kisonix-Dev/Vscode-Settings" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kisonix-Dev/Kisonix-dev/blob/main/img/folder-icon.png?raw=true" width="32" height="32" alt="Vscode-Settings">Vscode-Settings</a> (My VScode settings & bindings.)<br>
