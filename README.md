@@ -15,6 +15,7 @@
 
 ### Currently developing
 📄 <a href="https://github.com/Kisonix-Dev/Lime" target="_blank" rel="noopener noreferrer" alt="Lime OS">Lime OS</a> (Operating system simulation)<br>
+📄 <a href="https://github.com/Kisonix-Dev/YellowNotes" target="_blank" rel="noopener noreferrer" alt="YellowNotes">YellowNotes</a> (Mobile application: Yellow notes for android.)<br>
 
 ### Temporary freeze 
 📄 <a href="https://github.com/Kisonix-Dev/Eldoria-of-Shard" target="_blank" rel="noopener noreferrer" alt="Eldoria of Shard">Eldoria of Shard</a> (Browser-based top-down mmorpg video game)<br>
@@ -22,6 +23,7 @@
 ### Development finished 
 📄 <a href="https://github.com/Kisonix-Dev/RoboPoker" target="_blank" rel="noopener noreferrer" alt="RoboPoker">RoboPoker</a> (Play poker at home)<br>
 📄 <a href="https://github.com/Kisonix-Dev/WebPony" target="_blank" rel="noopener noreferrer" alt="WebPony">WebPony</a> (Website)<br>
+📄 <a href="https://github.com/Kisonix-Dev/YellowPlayer" target="_blank" rel="noopener noreferrer" alt="YellowPlayer">YellowPlayer</a> (Mobile application - Music audio player for Android)<br>
 
 ### Support finished
 📄 <a href="https://github.com/Kisonix-Dev/RoboPoker-Script" target="_blank" rel="noopener noreferrer" alt="RoboPoker-Script">RoboPoker-Script</a> (Script for playing poker at home)<br>
