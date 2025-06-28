@@ -1,7 +1,7 @@
 # 🍍 > About me_ 
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?logo=windows11&logoColor=white)
+![WSL](https://img.shields.io/badge/Linux_WSL-4D4D4D?logo=linux&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=sharp&logoColor=white&color=blue)
 ![JS](https://img.shields.io/badge/JS-white?logo=javascript&logoColor=white&color=yellow)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
