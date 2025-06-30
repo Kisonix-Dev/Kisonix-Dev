@@ -34,5 +34,3 @@
 
 ### My configuration files
 📄 <a href="https://github.com/Kisonix-Dev/Vscode-Settings" target="_blank" rel="noopener noreferrer" alt="Vscode-Settings">Vscode-Settings</a> (My VScode settings & bindings)<br>
-
-## Технологии которыми я пользуюсь 
