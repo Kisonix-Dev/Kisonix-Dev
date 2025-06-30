@@ -1,5 +1,6 @@
 # 🍍 > About me_ 
 
+## Technologies I use
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?logo=windows11&logoColor=white)
 ![WSL](https://img.shields.io/badge/Linux_WSL-4D4D4D?logo=linux&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=sharp&logoColor=white&color=blue)
@@ -33,3 +34,5 @@
 
 ### My configuration files
 📄 <a href="https://github.com/Kisonix-Dev/Vscode-Settings" target="_blank" rel="noopener noreferrer" alt="Vscode-Settings">Vscode-Settings</a> (My VScode settings & bindings)<br>
+
+## Технологии которыми я пользуюсь 
