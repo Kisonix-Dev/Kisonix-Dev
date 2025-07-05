@@ -19,6 +19,8 @@ I do live broadcasts on my [twitch channel](https://www.twitch.tv/kisonix) and r
 [![BlockBench](https://img.shields.io/badge/BlockBench-000000?logo=BlockBench&logoColor=white&color=3D8FCC)](https://www.blockbench.net/)
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white)](https://git-scm.com/)
 
+![Header](/img/header.gif)
+
 ### Currently developing
 📄 <a href="https://github.com/Kisonix-Dev/CyberLite" target="_blank" rel="noopener noreferrer" alt="CyberLite">CyberLite</a> (Hacker simulator)<br>
 
